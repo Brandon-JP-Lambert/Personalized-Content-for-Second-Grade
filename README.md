@@ -10,15 +10,8 @@ Welcome to this GitHub repository! We've created a collection of prompts designe
 
 ## Prompts
 
-Below is an example of the types of prompts available in this repository:
-
-```
-Emma danced in the rain, her joy like a blossoming flower. Write a haiku about this moment.
-
-Liam found a tiny, lost kitten under the porch. Write a haiku describing his feelings.
-```
-
-And many more!
+1. These are the names of my students: Emma, Liam, Olivia, Noah, Ava, Ethan, Sophia, Jackson, Mia, Aiden, Isabella, Lucas, Harper, Oliver, Charlotte Write a haiku based on each name. Write in a voice and style appropriate for second graders.
+2. Replace each name and any personal pronouns with a blank and reprint.
 
 ## Usage
 
