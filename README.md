@@ -1,6 +1,6 @@
 # Personalized-Content-for-Second-Grade
 
-Welcome to this GitHub repository! We've created a collection of prompts designed to help second grade teachers produce personalized content for learners using generative AI tools like ChatGPT. This repo is text-based and does not contain code.
+Welcome to this GitHub repository! We've created a collection of prompts designed to help second grade teachers produce personalized content for learners using generative AI tools like ChatGPT. 
 
 ## Features
 
