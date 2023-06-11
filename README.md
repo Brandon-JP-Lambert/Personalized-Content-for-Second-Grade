@@ -10,7 +10,8 @@ Welcome to this GitHub repository! We've created a collection of prompts designe
 
 ## Prompts
 ```
-1. These are the names of my students: Emma, Liam, Olivia, Noah, Ava, Ethan, Sophia, Jackson, Mia, Aiden, Isabella, Lucas, Harper, Oliver, Charlotte Write a haiku based on each name. Write in a voice and style appropriate for second graders.
+1. These are the names of my students: Emma, Liam, Olivia, Noah, Ava, Ethan, Sophia, Jackson, Mia, Aiden, Isabella, Lucas, Harper, Oliver, Charlotte. 
+Write a haiku based on each name. Write in a voice and style appropriate for second graders.
 2. Replace each name and any personal pronouns with a blank and reprint.
 ```
 
